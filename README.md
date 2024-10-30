@@ -7,7 +7,6 @@ Fast FOFA Search (FAFOSE) automates the encoding of IP addresses into FOFA-compa
 - Batch Processing: Reads IPs from a specified file, encoding each and displaying URLs for easy access.
 - Lightweight and Efficient: Simple script leveraging Python’s base64 library.
 
-   ```
 ## Example
 
 ### Single Target
